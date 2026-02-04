@@ -8,7 +8,7 @@ session_start();
         echo "<script>location='session-2.php'</script>";
     }
  ?>
- <form action="session1.php" method="post">
+ <form action="session-1.php" method="post">
     What is your name:
     <input type="text" name="txtname">
     <input type="submit" name="btnsubmit" value="Send">

@@ -12,7 +12,7 @@
     <title></title>
  </head>
  <body>
-    <form action="cookie1.php" method="post">
+    <form action="cookie-1.php" method="post">
         Name: <input type="text" name="txtname">
         <br>
         <input type="submit" name="btnsend" value="Send">
