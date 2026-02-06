@@ -1,7 +1,7 @@
 <html>
 <body>
 <?php
-$test_var;
+$test_var=null;
 // Declares the $test_var variable without initializing it
 echo gettype( $test_var ) . "<br/> ";    // Displays “NULL”
 $test_var = 15;
