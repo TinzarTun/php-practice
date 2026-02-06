@@ -1,10 +1,10 @@
 <?php
 $num=12;
 echo "<br/>".$num;
-$num=_;
+$num="";
 echo "<br>After Remove the value of num variable ".$num;
 $string="Hello";
 echo "<br>".$string;
-$string=_;
+$string="";
 echo "<br>After Remove the value of string variable ".$string;
 ?>
